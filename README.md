@@ -15,3 +15,5 @@ mvn clean install
 or
 
 mvn javafx:run
+
+or double click on JAR if you have JRE =)
