@@ -16,4 +16,6 @@ or
 
 mvn javafx:run
 
-or double click on JAR if you have JRE =)
+or 
+
+double click on JAR if you have JRE =)
